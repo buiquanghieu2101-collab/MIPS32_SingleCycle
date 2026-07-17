@@ -1,2 +1,0 @@
-# MIPS32_SingleCycle
-MIPS32_SingleCycle
